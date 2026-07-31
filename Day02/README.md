@@ -294,7 +294,7 @@ Working directly with Nginx, Redis, and PostgreSQL also demonstrated that Docker
 # Additional Documentation
 
 - 📘 **commands.md** – Complete reference for every Docker command used during Day 2.
--  **mistakes-and-lessons.md** – Detailed troubleshooting journal documenting every issue encountered and how it was resolved.
+- ⚒️ **challenges-and-lessons.md** – Detailed troubleshooting journal documenting every issue encountered and how it was resolved.
 
 ---
 
