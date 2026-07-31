@@ -1,4 +1,4 @@
-# Mistakes & Lessons Learned – Day 2
+# Challenge & Lessons Learned – Day 2
 
 > **Learning Journey:** 7-Day Docker Sprint  
 > **Day:** 2  
