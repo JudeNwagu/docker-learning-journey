@@ -232,7 +232,7 @@ Day05/
 
 ---
 
-# Day 5 Checkpoint
+# Day 5 Skills Demonstrated
 
 - ✅ Understand the purpose of Docker networking
 - ✅ Can explain why port mapping and networking solve different problems
